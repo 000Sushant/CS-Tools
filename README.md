@@ -33,6 +33,7 @@ ifconfig
 ```
 
 ## inforecon.py
+Fetching details from: [ipinfo](https://ipinfo.io/)
 
 This script can be used to extract the physical location of an IP, through its hosted domain.
 
