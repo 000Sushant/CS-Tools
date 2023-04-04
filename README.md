@@ -39,7 +39,7 @@ This script can be used to extract the physical location of an IP, through its h
 
 ## macspoofer.py
 
-This script can be used for changing the MAC address in a Linux OS. It will assign new randomly generated MAC address to the system. If you want to assign a perticular address, you can comment out the new_mac( ) and get_rand( ), then assign the desired address to mac variable. 
+This script can be used for changing the MAC address in a Linux OS. It will assign new randomly generated MAC address to the system. If you want to assign a perticular address, you can comment out the new_mac( ) and get_rand( ), then assign the desired address to ```mac``` variable. 
 
 ## nmapscanner.py
 
